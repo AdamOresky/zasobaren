@@ -1,0 +1,14 @@
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\bin\Debug\net10.0\Zasobaren.API.exe
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\bin\Debug\net10.0\Zasobaren.API.deps.json
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\bin\Debug\net10.0\Zasobaren.API.runtimeconfig.json
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\bin\Debug\net10.0\Zasobaren.API.dll
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\bin\Debug\net10.0\Zasobaren.API.pdb
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.AssemblyInfoInputs.cache
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.AssemblyInfo.cs
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.csproj.CoreCompileInputs.cache
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.dll
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\refint\Zasobaren.API.dll
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.pdb
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\Zasobaren.API.genruntimeconfig.cache
+C:\Users\oresk\RiderProjects\zasobaren\Zasobaren.API\obj\Debug\net10.0\ref\Zasobaren.API.dll
